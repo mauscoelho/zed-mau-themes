@@ -6,3 +6,6 @@ This repo is based on the default theme of helix editor
 - Copy the `.json` files from this repo into `~.config/zed/themes`.
 - Run [Zed Preview](https://zed.dev/releases/preview)
 - Select your theme (Settings -> Select Theme).
+
+## Screenshot
+![](screenshot.png)
