@@ -160,7 +160,34 @@
             "font_style": null,
             "font_weight": null
           }
-        }
+        },
+        "terminal.foreground": null,
+        "terminal.bright_foreground": null,
+        "terminal.dim_foreground": null,
+        "terminal.ansi.black": "#333333",
+        "terminal.ansi.bright_black": "#666666",
+        "terminal.ansi.dim_black": null,
+        "terminal.ansi.red": "#C4265E",
+        "terminal.ansi.bright_red": "#f92672",
+        "terminal.ansi.dim_red": null,
+        "terminal.ansi.green": "#86B42B",
+        "terminal.ansi.bright_green": "#9FF28F",
+        "terminal.ansi.dim_green": null,
+        "terminal.ansi.yellow": "#B3B42B",
+        "terminal.ansi.bright_yellow": "#e2e22e",
+        "terminal.ansi.dim_yellow": null,
+        "terminal.ansi.blue": "#6A7EC8",
+        "terminal.ansi.bright_blue": "#819aff",
+        "terminal.ansi.dim_blue": null,
+        "terminal.ansi.magenta": "#8C6BC8",
+        "terminal.ansi.bright_magenta": "#AE81FF",
+        "terminal.ansi.dim_magenta": null,
+        "terminal.ansi.cyan": "#56ADBC",
+        "terminal.ansi.bright_cyan": "#66D9EF",
+        "terminal.ansi.dim_cyan": null,
+        "terminal.ansi.white": "#e3e3dd",
+        "terminal.ansi.bright_white": "#f8f8f2",
+        "terminal.ansi.dim_white": null
       }
     }
   ]
