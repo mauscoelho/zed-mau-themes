@@ -1,6 +1,6 @@
-# Helix default theme for the Zed Code Editor
+# My custom themes for the Zed Code Editor
 
-This repo is based on the default theme of helix editor
+This repo is based on the default theme of helix editor and Omini
 
 ## Installing
 - Copy the `.json` files from this repo into `~.config/zed/themes`.
