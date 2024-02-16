@@ -449,7 +449,7 @@
         "modified": null,
         "modified.background": null,
         "modified.border": null,
-        "predictive": null,
+        "predictive": "#AAAAAA",
         "predictive.background": null,
         "predictive.border": null,
         "renamed": null,
