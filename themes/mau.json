@@ -4,7 +4,7 @@
   "author": "Mauricio Coelho",
   "themes": [
     {
-      "name": "Helix Dark Theme",
+      "name": "Mau Helix Theme",
       "appearance": "dark",
       "style": {
         "border": null,
@@ -446,7 +446,7 @@
         "info": null,
         "info.background": null,
         "info.border": null,
-        "modified": null,
+        "modified": "#9C5D27",
         "modified.background": null,
         "modified.border": null,
         "predictive": "#AAAAAA",
@@ -509,7 +509,7 @@
           "function": {
             "color": "#AA3731",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "keyword": {
             "color": "#4B69C6",
@@ -594,7 +594,7 @@
           "type": {
             "color": "#7A3E9D",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "variable": {
             "color": "#7A3E9D",
@@ -605,6 +605,11 @@
             "color": "#9C5D27",
             "font_style": null,
             "font_weight": null
+          },
+          "title": {
+            "color": "#bd93f9ff",
+            "font_style": null,
+            "font_weight": 600
           }
         }
       }
