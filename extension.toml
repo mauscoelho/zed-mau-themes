@@ -1,6 +1,6 @@
 id = "mautheme"
 name = "Mau Theme"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Mauricio Coelho <mauscoelho@gmail.com>"]
 description = "Mau Zed theme"
