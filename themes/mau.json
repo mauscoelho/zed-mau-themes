@@ -161,6 +161,7 @@
             "font_weight": null
           }
         },
+        "predictive": "#565043",
         "terminal.foreground": null,
         "terminal.bright_foreground": null,
         "terminal.dim_foreground": null,
