@@ -1,11 +1,13 @@
-# Mau theme for the Zed Code Editor
+# Mau Theme for [Zed](https://zed.dev)
 
-My custom dark and light theme
-
-## Screenshot
+> A purple theme inspired by Helix editor for [Zed](https://zed.dev).
 
 ![Mau Helix Theme](helix-theme.png)
 
+> A dark theme for [Zed](https://zed.dev).
+
 ![Mau Dark Theme](dark.png)
+
+> A light theme for [Zed](https://zed.dev).
 
 ![Mau Light Theme](light.png)
