@@ -42,7 +42,7 @@
         "text.accent": "#C9A8F9FF",
         "syntax": {
           "attribute": {
-            "color": "#9FF28F",
+            "color": "#f8f8f2ff",
             "font_style": null,
             "font_weight": null
           },
@@ -117,7 +117,12 @@
             "font_weight": null
           },
           "string": {
-            "color": "#CCCCCC",
+            "color": "#7FB998",
+            "font_style": null,
+            "font_weight": null
+          },
+          "property": {
+            "color": "#FFFFFF",
             "font_style": null,
             "font_weight": null
           },
