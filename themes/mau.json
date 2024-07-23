@@ -188,7 +188,10 @@
         "terminal.ansi.dim_cyan": null,
         "terminal.ansi.white": "#e3e3dd",
         "terminal.ansi.bright_white": "#f8f8f2",
-        "terminal.ansi.dim_white": null
+        "terminal.ansi.dim_white": null,
+        "warning": "#e6e373ff",
+        "warning.background": "#281733",
+        "warning.border": "#e6e373ff"
       }
     },
     {
