@@ -16,7 +16,7 @@
         "elevated_surface.background": "#281733",
         "background": "#3B224C",
         "editor.background": "#3B224C",
-        "editor.foreground": null,
+        "editor.foreground": "#f8f8f2ff",
         "editor.gutter.background": "#3B224C",
         "editor.subheader.background": null,
         "editor.active_line.background": "#281733",
