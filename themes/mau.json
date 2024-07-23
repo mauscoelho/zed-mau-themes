@@ -34,6 +34,11 @@
         "tab.active_background": "#281733",
         "panel.background": "#281733",
         "terminal.background": "#281733",
+        "text": "#f8f8f2ff",
+        "text.muted": "#a186c7ff",
+        "text.placeholder": "#C9A8F980",
+        "text.disabled": "#C9A8F950",
+        "text.accent": "#C9A8F9FF",
         "syntax": {
           "attribute": {
             "color": "#9FF28F",
