@@ -1514,15 +1514,15 @@
         "ghost_element.active": "#c4d9b199",
         "ghost_element.selected": "#c4d9b1",
         "ghost_element.disabled": "#ebebeb",
-        "text": "#333333",
-        "text.muted": "#555555",
-        "text.placeholder": "#888888",
-        "text.disabled": "#aaaaaa",
+        "text": "#1f2328",
+        "text.muted": "#4a4f57",
+        "text.placeholder": "#6e7781",
+        "text.disabled": "#8c959f",
         "text.accent": "#9769dc",
-        "icon": "#333333",
-        "icon.muted": "#555555",
-        "icon.disabled": "#aaaaaa",
-        "icon.placeholder": "#888888",
+        "icon": "#1f2328",
+        "icon.muted": "#4a4f57",
+        "icon.disabled": "#8c959f",
+        "icon.placeholder": "#6e7781",
         "icon.accent": "#9769dc",
         "status_bar.background": "#F5F5F5",
         "title_bar.background": "#F5F5F5",
@@ -1530,15 +1530,15 @@
         "toolbar.background": "#F5F5F5",
         "tab_bar.background": "#F5F5F5",
         "tab.inactive_background": "#ebebeb",
-        "tab.active_background": "#FFFFFF",
+        "tab.active_background": "#FAFAFA",
         "search.match_background": "#9769dc4d",
         "search.active_match_background": "#fe640b4d",
-        "panel.background": "#F5F5F5",
+        "panel.background": "#FFFFFF",
         "panel.focused_border": "#9769dc",
         "panel.indent_guide": "#d4d4d499",
         "panel.indent_guide_active": "#9769dc",
         "panel.indent_guide_hover": "#9769dc",
-        "panel.overlay_background": "#F5F5F5",
+        "panel.overlay_background": "#FFFFFF",
         "pane.focused_border": "#9769dc",
         "pane_group.border": "#d4d4d4",
         "scrollbar.thumb.background": "#88888880",
@@ -1551,9 +1551,9 @@
         "minimap.thumb.hover_background": "#9769dc66",
         "minimap.thumb.active_background": "#9769dc99",
         "minimap.thumb.border": null,
-        "editor.foreground": "#333333",
-        "editor.background": "#FFFFFF",
-        "editor.gutter.background": "#FFFFFF",
+        "editor.foreground": "#1f2328",
+        "editor.background": "#FAFAFA",
+        "editor.gutter.background": "#FAFAFA",
         "editor.subheader.background": "#F5F5F5",
         "editor.active_line.background": "#E4F6D4",
         "editor.highlighted_line.background": null,
@@ -1730,17 +1730,17 @@
             "font_weight": null
           },
           "comment": {
-            "color": "#AAAAAA",
+            "color": "#6e7781",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.doc": {
-            "color": "#aaaaaa",
+            "color": "#6e7781",
             "font_style": "italic",
             "font_weight": null
           },
           "comment.documentation": {
-            "color": "#aaaaaa",
+            "color": "#6e7781",
             "font_style": "italic",
             "font_weight": null
           },
@@ -1845,17 +1845,17 @@
             "font_weight": null
           },
           "function": {
-            "color": "#AA3731",
+            "color": "#8250df",
             "font_style": null,
             "font_weight": null
           },
           "function.builtin": {
-            "color": "#AA3731",
+            "color": "#8250df",
             "font_style": null,
             "font_weight": null
           },
           "function.call": {
-            "color": "#AA3731",
+            "color": "#8250df",
             "font_style": null,
             "font_weight": null
           },
@@ -1870,12 +1870,12 @@
             "font_weight": null
           },
           "function.method": {
-            "color": "#AA3731",
+            "color": "#8250df",
             "font_style": null,
             "font_weight": null
           },
           "function.method.call": {
-            "color": "#AA3731",
+            "color": "#8250df",
             "font_style": null,
             "font_weight": null
           },
@@ -2185,7 +2185,7 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#7A3E9D",
+            "color": "#0550ae",
             "font_style": null,
             "font_weight": null
           },
