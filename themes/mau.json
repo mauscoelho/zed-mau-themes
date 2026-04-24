@@ -1772,7 +1772,7 @@
           "comment.todo": {
             "color": "#c8650e",
             "font_style": "italic",
-            "font_weight": 700
+            "font_weight": null
           },
           "comment.note": {
             "color": "#5d4eb0",
@@ -2157,7 +2157,7 @@
           "title": {
             "color": "#cf222e",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": 400
           },
           "type": {
             "color": "#6b3aa3",
@@ -2172,7 +2172,7 @@
           "type.class.definition": {
             "color": "#6b3aa3",
             "font_style": null,
-            "font_weight": 700
+            "font_weight": null
           },
           "type.definition": {
             "color": "#6b3aa3",
